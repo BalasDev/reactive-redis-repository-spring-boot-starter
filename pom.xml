@@ -13,7 +13,7 @@
         <spring.boot.version>2.2.2.RELEASE</spring.boot.version>
         <maven-compiler-plugin.version>3.8.0</maven-compiler-plugin.version>
         <lombok.version>1.18.10</lombok.version>
-        <jackson.version>2.9.8</jackson.version>
+        <jackson.version>2.9.10.1</jackson.version>
     </properties>
 
     <dependencyManagement>
